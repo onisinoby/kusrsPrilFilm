@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "697441989669",
+    "project_id": "curs1-1d2ca",
+    "storage_bucket": "curs1-1d2ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697441989669:android:60306e98e72e738890fbcc",
+        "android_client_info": {
+          "package_name": "com.example.curs1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697441989669-pf5iv7ogk4rfmriogm35un9p6121p4ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3DKcy-mdxKkJMNDVlyPsz8E4ki-EzN5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697441989669-pf5iv7ogk4rfmriogm35un9p6121p4ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697441989669:android:d564cdc6b33cbe9390fbcc",
+        "android_client_info": {
+          "package_name": "com.example.prilogeniefilmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697441989669-pf5iv7ogk4rfmriogm35un9p6121p4ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3DKcy-mdxKkJMNDVlyPsz8E4ki-EzN5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697441989669-pf5iv7ogk4rfmriogm35un9p6121p4ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
